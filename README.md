@@ -30,7 +30,7 @@ A passionate full stack developer from India.
   <a href="https://instagram.com/s_sattu_s" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="https://www.leetcode.com/satyam9555" target="_blank">
+  <a href="https://leetcode.com/u/Satyam8932/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>
   </a>
 </p>

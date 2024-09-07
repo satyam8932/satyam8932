@@ -1,4 +1,4 @@
-# Hi 👋, I'm Satyam Singh. 
+# Hi 👋, I'm Satyam Singh.
 
 A passionate full stack developer from India.
 

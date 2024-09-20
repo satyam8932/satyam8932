@@ -17,7 +17,7 @@ A passionate full stack developer from India.
 [businesswithsatyam9555@gmail.com](mailto:businesswithsatyam9555@gmail.com)
 
 ## 📄 Know about my experiences
-[Resume](https://drive.google.com/file/d/1xjfxDDCIFFXXDpXy-aEsV7uEAqC13eHW/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1y7gg4GUaJBix9GSwc92lLQR4GIn5oPC9/view?usp=drive_link)
 
 ## 💻 Let's Connect:
 <p align="center">

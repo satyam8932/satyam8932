@@ -17,7 +17,7 @@
 [businesswithsatyam9555@gmail.com](mailto:businesswithsatyam9555@gmail.com)
 
 ## 📄 Know about my experiences
-[Resume](https://drive.google.com/file/d/1wyVfzKMciDz_2_M5r35lHp4dAur09c_1/view?usp=sharing) 
+[Resume](https://drive.google.com/file/d/17F80MdnxPjZIkf4Z31rzQNHZqdkC_Dw-/view?usp=sharing) 
 
 ## 💻 Let's Connect:
 <p align="center">

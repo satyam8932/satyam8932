@@ -8,7 +8,7 @@
 **AI Tools and Products**
 
 ## 🌱 I'm currently learning
-**System Design and Backend Development**
+**System Design, Devops and Backend Development**
 
 ## 👨‍💻 All of my projects are available at
 [My Portfolio](https://portfolioforsatyam.vercel.app/)

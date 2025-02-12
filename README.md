@@ -82,3 +82,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=satyam8932&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="70%"/>
 </p>
 
+## 🐍 Contribution Snake
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/satyam8932/satyam8932/main/dist/snake.svg)
+

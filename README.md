@@ -1,88 +1,95 @@
-# Hi 👋, I'm Satyam Singh. 
- 
-### A passionate Full Stack Developer from India.
-
-![Coding](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
-## 🔭 I'm currently working on
-**AI Tools and Products**
- 
-## 🌱 I'm currently learning
-**System Design, Devops and Backend Development**
-
-## 👨‍💻 All of my projects are available at
-[My Portfolio](https://portfolioforsatyam.vercel.app/)
-
-## 📫 How to reach me
-[businesswithsatyam9555@gmail.com](mailto:businesswithsatyam9555@gmail.com)
-
-## 📄 Know about my experiences
-[Resume](https://drive.google.com/file/d/18k_J84f0WXD_6legt6lxIVOIwvKUy4UC/view?usp=sharing)
-
-## 💻 Let's Connect:
+<!-- Neon Header Line -->
 <p align="center">
-  <a href="https://twitter.com/s_sattu_ss" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"/>
-  </a>
-  <a href="https://linkedin.com/in/satyam-singh-068730220" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://instagram.com/s_sattu_s" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
-  </a>
-  <a href="https://leetcode.com/u/Satyam8932/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
-## 💻 Tech Stack:
+<!-- Typography Intro -->
 <p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI"/>
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black" alt="Jinja"/>
-  <img src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=700&color=38F7E1&center=true&vCenter=true&width=850&lines=Satyam+Singh;Full+Stack+Developer;AI+Automation+Engineer;System+Design+%26+Backend+Architecture;Builder+of+Production+Systems" />
 </p>
 
-## 📊 GitHub Stats:
+<!-- Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyam8932&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam8932&theme=dark&hide_border=false" alt="GitHub Streak" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam8932&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%"/>
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" />
 </p>
 
-## 🏆 GitHub Trophies
+<h1 align="center">Welcome to My World of Code and Machines</h1>
+<h3 align="center">I build systems that behave like disciplined soldiers, not panicked interns.</h3>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satyam8932&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" width="70%"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="55%" />
 </p>
 
-## ✍️ Random Dev Quote
+<!-- Divider -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="70%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
 
-## 🔝 Top Contributed Repo
+## ⚡ Summary  
+Software engineer specialising in scalable micro-architectures, AI automation pipelines, backend engineering and multi-user collaboration systems.  
+Everything I build aims to be fast, reliable and unnecessarily clean.
+
+## 🚀 What I'm Building  
+- AI automation workflows and agent-driven systems  
+- Multi-tenant collaboration platforms  
+- Backend services with caching, queues, workers and modular architecture  
+
+## 🎯 What I'm Learning  
+- Distributed systems and high-availability patterns  
+- Advanced DevOps and infra pipelines  
+- Smarter ways to make servers suffer less  
+
+## 🌐 Portfolio and Resume  
+- **Portfolio**: https://portfolioforsatyam.vercel.app  
+- **Resume**: [Download Here](https://drive.google.com/file/d/18k_J84f0WXD_6legt6lxIVOIwvKUy4UC/view)  
+- **Email**: businesswithsatyam9555@gmail.com  
+
+## 🔗 Connect With Me  
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=satyam8932&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="70%"/>
+  <a href="https://twitter.com/s_sattu_ss"><img src="https://skillicons.dev/icons?i=twitter" width="45"></a>
+  <a href="https://linkedin.com/in/satyam-singh-068730220"><img src="https://skillicons.dev/icons?i=linkedin" width="45"></a>
+  <a href="https://instagram.com/s_sattu_s"><img src="https://skillicons.dev/icons?i=instagram" width="45"></a>
+  <a href="https://leetcode.com/u/Satyam8932/"><img src="https://skillicons.dev/icons?i=leetcode" width="45"></a>
 </p>
 
-## 🐍 Contribution Snake
+## 🧩 Technology Arsenal  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,fastapi,django,react,nextjs,redux,postgres,mongodb,prisma,redis,nginx,docker,linux,git,github,vercel,nest,mysql,go,c,cpp,supabase,firebase,aws,azure,figma,express" />
+</p>
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/satyam8932/satyam8932/main/dist/snake.svg)
+## 🔥 Stats Card  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyam8932&theme=tokyonight" width="100%">
+</p>
+
+## 📊 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satyam8932&theme=tokyonight&show_icons=true&count_private=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=satyam8932&theme=tokyonight" width="48%">
+</p>
+
+## 🧠 Language Share  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam8932&theme=tokyonight&layout=compact" width="45%">
+</p>
+
+## 📡 Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam8932&theme=tokyo-night" width="100%">
+</p>
+
+## 🏆 Trophy Wall  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=satyam8932&theme=tokyonight&margin-w=10">
+</p>
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/satyam8932/satyam8932/main/dist/snake.svg">
+</p>
+
+## ✨ Developer Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="75%">
+</p>
 

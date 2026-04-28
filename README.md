@@ -41,7 +41,7 @@ Everything I build aims to be fast, reliable and unnecessarily clean.
 
 ## 🌐 Portfolio and Resume  
 - **Portfolio**: https://portfolioforsatyam.vercel.app  
-- **Resume**: [Download Here](https://drive.google.com/file/d/18k_J84f0WXD_6legt6lxIVOIwvKUy4UC/view)  
+- **Resume**: [Download Here](https://drive.google.com/file/d/1ibG7XC30fwEWV9OXs2ufUDx9iZIxPcv1/view)  
 - **Email**: businesswithsatyam9555@gmail.com  
 
 ## 🔗 Connect With Me  

@@ -39,10 +39,11 @@ Everything I build aims to be fast, reliable and unnecessarily clean.
 - Advanced DevOps and infra pipelines  
 - Smarter ways to make servers suffer less  
 
-## 🌐 Portfolio and Resume  
-- **Portfolio**: https://portfolioforsatyam.vercel.app  
-- **Resume**: [Download Here](https://drive.google.com/file/d/1ibG7XC30fwEWV9OXs2ufUDx9iZIxPcv1/view)  
-- **Email**: businesswithsatyam9555@gmail.com  
+## 🌐 Portfolio and Resume
+- **Portfolio**: https://portfolioforsatyam.vercel.app
+- **Resume**: [Download Resume](https://drive.google.com/file/d/1ibG7XC30fwEWV9OXs2ufUDx9iZIxPcv1/view)
+- **Email**: businesswithsatyam9555@gmail.com
+- **Certification**: [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/satyam8932/26A8EFD973FF83B4?sharingId=AF4BE9753542A0C0)
 
 ## 🔗 Connect With Me  
 <p align="center">

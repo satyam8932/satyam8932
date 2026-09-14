@@ -14,7 +14,7 @@
 </p>
 
 <h1 align="center">Welcome to My World of Code and Machines</h1>
-<h3 align="center">I build systems that behave like disciplined soldiers, not panicked interns.</h3>
+<!-- <h3 align="center">I build systems that behave like disciplined soldiers, not panicked interns.</h3> -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="55%" />

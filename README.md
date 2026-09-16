@@ -1,41 +1,37 @@
-<!--
-  ───────────────────────────────────────────────────────────────────────
-  EVERYTHING VISUAL HERE IS SERVED FROM THIS REPO. Nothing upstream can
-  rot, rename a folder, or pause a Vercel deployment and take you with it.
-
-  assets/header-strip.png   saved copy of the halfrost tech collage
-  assets/divider.png        saved copy of the colored rule
-  assets/banner.svg         custom, text baked to outlines, no font loading
-  assets/h-*.svg            section headers, same deal
-
-  Only two external services survived the cull, both verified working:
-    github-profile-summary-cards.vercel.app
-    streak-stats.demolab.com
-  If either ever dies, delete its line. Nothing else depends on it.
-  ───────────────────────────────────────────────────────────────────────
--->
-
 <img src="https://raw.githubusercontent.com/satyam8932/satyam8932/main/assets/divider.png" width="100%">
 
 <img src="https://raw.githubusercontent.com/satyam8932/satyam8932/main/assets/header-strip.png" width="100%">
 
-<img src="https://raw.githubusercontent.com/satyam8932/satyam8932/main/assets/banner.svg" alt="Satyam Singh, backend systems and AI automation" width="100%">
+<h1 align="center">Satyam Singh</h1>
 
-<div align="center">
+<p align="center">
+  <img alt="Full stack developer and AI automation engineer" src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=25&pause=1600&color=2289B6&center=true&vCenter=true&width=880&height=48&lines=Full+Stack+Developer;AI+Automation+Engineer;Backends+that+are+not+allowed+to+fall+over;Voice+agents%2C+LLM+pipelines%2C+and+the+glue+between+them">
+</p>
+
+<p align="center">
+  <img alt="Based in India, UTC+5:30" src="https://img.shields.io/badge/Based-India,%20UTC%2B5:30-02061C?style=flat-square&labelColor=E0160A">
+  <img alt="Microsoft Certified Azure AI Engineer" src="https://img.shields.io/badge/Certified-Azure%20AI%20Engineer-02061C?style=flat-square&labelColor=F7BD40">
+  <img alt="Top Rated on Upwork with 100 percent job success" src="https://img.shields.io/badge/Upwork-Top%20Rated,%20100%25%20JSS-02061C?style=flat-square&labelColor=2289B6">
+  <img alt="50 plus clients shipped" src="https://img.shields.io/badge/Shipped-50%2B%20clients-02061C?style=flat-square&labelColor=94AFC0">
+</p>
+
+<p align="center">
   <a href="https://portfolioforsatyam.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-02061C?style=flat-square&logo=vercel&logoColor=F5F1E6"></a>
   <a href="https://drive.google.com/file/d/1ibG7XC30fwEWV9OXs2ufUDx9iZIxPcv1/view"><img alt="Resume" src="https://img.shields.io/badge/Resume-02061C?style=flat-square&logo=googledrive&logoColor=F5F1E6"></a>
   <a href="mailto:businesswithsatyam9555@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-02061C?style=flat-square&logo=gmail&logoColor=F5F1E6"></a>
   <a href="https://www.linkedin.com/in/satyam8932/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-02061C?style=flat-square&logo=linkedin&logoColor=F5F1E6"></a>
   <a href="https://www.upwork.com/freelancers/~015123bd12ad914e39"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-02061C?style=flat-square&logo=upwork&logoColor=F5F1E6"></a>
   <a href="https://leetcode.com/u/Satyam8932/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-02061C?style=flat-square&logo=leetcode&logoColor=F5F1E6"></a>
-  &nbsp;
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=satyam8932&label=Visitors&color=F7BD40&style=flat-square&abbreviated=true">
+  &nbsp;&nbsp;
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=satyam8932&label=Visitors&color=F7BD40&style=flat-square&abbreviated=true">
   <img alt="Followers" src="https://img.shields.io/github/followers/satyam8932?style=flat-square&label=Followers&labelColor=02061C&color=2289B6">
-</div>
+</p>
+
+<img src="https://raw.githubusercontent.com/satyam8932/satyam8932/main/assets/divider.png" width="100%">
 
 <br>
 
-<img src="https://raw.githubusercontent.com/satyam8932/satyam8932/main/assets/h-whoami.svg" alt="whoami" width="100%">
+<img alt="whoami" height="38" src="https://img.shields.io/badge/whoami-the%20short%20version-02061C?style=for-the-badge&labelColor=F7BD40">
 
 Full stack developer and AI automation engineer, operating out of India under the name **TechFixNexus**. I build two kinds of things: backend systems that are not allowed to fall over, and automation that quietly deletes work somebody was doing by hand at eleven at night.
 
@@ -98,7 +94,7 @@ I have several, and I will defend them for longer than anyone wants.
 
 <br>
 
-<img src="https://raw.githubusercontent.com/satyam8932/satyam8932/main/assets/h-build.svg" alt="what i build" width="100%">
+<img alt="what i build" height="38" src="https://img.shields.io/badge/what%20i%20build-and%20for%20whom-02061C?style=for-the-badge&labelColor=F7BD40">
 
 | Area | What that actually means | Tools I reach for |
 | :-- | :-- | :-- |
@@ -110,7 +106,7 @@ I have several, and I will defend them for longer than anyone wants.
 
 <br>
 
-<img src="https://raw.githubusercontent.com/satyam8932/satyam8932/main/assets/h-work.svg" alt="selected work" width="100%">
+<img alt="selected work" height="38" src="https://img.shields.io/badge/selected%20work-the%20public%20half-02061C?style=for-the-badge&labelColor=F7BD40">
 
 | Project | What it is | Stack | |
 | :-- | :-- | :-- | :-- |
@@ -122,7 +118,7 @@ Client work stays private by contract. What is public here is what legal lets me
 
 <br>
 
-<img src="https://raw.githubusercontent.com/satyam8932/satyam8932/main/assets/h-stack.svg" alt="toolchain" width="100%">
+<img alt="toolchain" height="38" src="https://img.shields.io/badge/toolchain-things%20i%20reach%20for-02061C?style=for-the-badge&labelColor=F7BD40">
 
 | Layer | |
 | :-- | :-- |
@@ -135,15 +131,17 @@ Client work stays private by contract. What is public here is what legal lets me
 
 <br>
 
-<img src="https://raw.githubusercontent.com/satyam8932/satyam8932/main/assets/h-now.svg" alt="currently" width="100%">
+<img alt="currently" height="38" src="https://img.shields.io/badge/currently-this%20quarter-02061C?style=for-the-badge&labelColor=F7BD40">
 
-<div align="center">
-  <img alt="What I am working on right now" src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=20&pause=1500&color=94AFC0&center=true&vCenter=true&width=820&height=46&lines=Building+agent+driven+automation+for+client+operations;Shipping+multi+tenant+backends+that+survive+real+traffic;Reading+about+distributed+systems+and+failing+gracefully;Grinding+DSA+so+whiteboards+stop+being+a+personality+test;Explaining+to+APIs+why+their+documentation+is+fiction">
-</div>
+- Building agent driven automation for client operations, the kind that replaces a spreadsheet and three recurring calendar reminders.
+- Shipping multi tenant backends that survive real traffic rather than a demo dataset of twelve rows.
+- Reading about distributed systems, mostly so I can fail gracefully on purpose instead of by accident.
+- Grinding DSA, so that whiteboards stop being a personality test.
+- Explaining to third party APIs, at length, why their documentation is fiction.
 
 <br>
 
-<img src="https://raw.githubusercontent.com/satyam8932/satyam8932/main/assets/h-receipts.svg" alt="receipts" width="100%">
+<img alt="receipts" height="38" src="https://img.shields.io/badge/receipts-github's%20opinion-02061C?style=for-the-badge&labelColor=F7BD40">
 
 <div align="center">
   <img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyam8932&theme=github_dark" width="100%">
@@ -166,7 +164,7 @@ GitHub only counts the work I am allowed to push. Treat all of the above as a lo
 
 <br>
 
-<img src="https://raw.githubusercontent.com/satyam8932/satyam8932/main/assets/h-ping.svg" alt="ping me" width="100%">
+<img alt="ping me" height="38" src="https://img.shields.io/badge/ping%20me-i%20actually%20reply-02061C?style=for-the-badge&labelColor=F7BD40">
 
 | You want to | Go here |
 | :-- | :-- |

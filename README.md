@@ -33,7 +33,7 @@
 
 <img alt="whoami" height="38" src="https://img.shields.io/badge/whoami-the%20short%20version-02061C?style=for-the-badge&labelColor=F7BD40">
 
-Full stack developer and AI automation engineer, operating out of India under the name **TechFixNexus**. I build two kinds of things: backend systems that are not allowed to fall over, and automation that quietly deletes work somebody was doing by hand at eleven at night.
+Full Stack Engineer(Backend Heavy) and AI automation engineer. I build two kinds of things: backend systems that are not allowed to fall over, and automation that quietly deletes work somebody was doing by hand at eleven at night.
 
 Around **50 clients** so far across real estate, fintech, healthcare and ecommerce, mostly through Upwork, where I am **Top Rated with a 100% job success score**. Nobody has asked for a refund yet. I am choosing to read that as enthusiasm rather than politeness.
 

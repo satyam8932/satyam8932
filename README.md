@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://portfolioforsatyam.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-02061C?style=flat-square&logo=vercel&logoColor=F5F1E6"></a>
-  <a href="https://drive.google.com/file/d/1ibG7XC30fwEWV9OXs2ufUDx9iZIxPcv1/view"><img alt="Resume" src="https://img.shields.io/badge/Resume-02061C?style=flat-square&logo=googledrive&logoColor=F5F1E6"></a>
+  <a href="https://drive.google.com/file/d/178UQmqtBHjR5ecrLchUXbbVMHGccke3r/view"><img alt="Resume" src="https://img.shields.io/badge/Resume-02061C?style=flat-square&logo=googledrive&logoColor=F5F1E6"></a>
   <a href="mailto:businesswithsatyam9555@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-02061C?style=flat-square&logo=gmail&logoColor=F5F1E6"></a>
   <a href="https://www.linkedin.com/in/satyam8932/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-02061C?style=flat-square&logo=linkedin&logoColor=F5F1E6"></a>
   <a href="https://www.upwork.com/freelancers/~015123bd12ad914e39"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-02061C?style=flat-square&logo=upwork&logoColor=F5F1E6"></a>
@@ -53,7 +53,7 @@ I also ran **GenieAI** as project admin through GSSoC, which meant reviewing pul
 | **Timezone** | IST, UTC+5:30. Happily overlap US and EU hours, caffeine permitting |
 | **Education** | B.Tech, Computer Science and Engineering, 2021 to 2025 |
 | **Certification** | [Microsoft Certified: Azure AI Engineer Associate, AI-102](https://learn.microsoft.com/api/credentials/share/en-us/satyam8932/26A8EFD973FF83B4?sharingId=AF4BE9753542A0C0) |
-| **Resume** | [Grab it here](https://drive.google.com/file/d/1ibG7XC30fwEWV9OXs2ufUDx9iZIxPcv1/view) |
+| **Resume** | [Grab it here](https://drive.google.com/file/d/178UQmqtBHjR5ecrLchUXbbVMHGccke3r/view) |
 
 My best work is in private client repositories, so this profile is the smaller and less interesting half of the story. Ask and I will screen share the real thing.
 
@@ -171,7 +171,7 @@ GitHub only counts the work I am allowed to push. Treat all of the above as a lo
 | Hire me for a project | [Upwork](https://www.upwork.com/freelancers/~015123bd12ad914e39) |
 | Talk about a role | [LinkedIn](https://www.linkedin.com/in/satyam8932/) or [email](mailto:businesswithsatyam9555@gmail.com) |
 | See the case studies | [portfolioforsatyam.vercel.app](https://portfolioforsatyam.vercel.app) |
-| Read the resume | [Google Drive](https://drive.google.com/file/d/1ibG7XC30fwEWV9OXs2ufUDx9iZIxPcv1/view) |
+| Read the resume | [Google Drive](https://drive.google.com/file/d/178UQmqtBHjR5ecrLchUXbbVMHGccke3r/view) |
 | Check I am not lying about the cert | [Microsoft Learn](https://learn.microsoft.com/api/credentials/share/en-us/satyam8932/26A8EFD973FF83B4?sharingId=AF4BE9753542A0C0) |
 
 <br>

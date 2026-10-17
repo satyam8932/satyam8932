@@ -123,10 +123,10 @@ Client work stays private by contract. What is public here is what legal lets me
 | Layer | |
 | :-- | :-- |
 | **Languages** | <img alt="TypeScript, JavaScript, Python, Go, C++, C" src="https://skillicons.dev/icons?i=ts,js,python,go,cpp,c" height="36"> |
-| **Backend** | <img alt="NestJS, Node.js, Express, FastAPI, Django" src="https://skillicons.dev/icons?i=nest,nodejs,express,fastapi,django" height="36"> |
+| **Backend** | <img alt="NestJS, Node.js, Express, FastAPI, Django, Flask" src="https://skillicons.dev/icons?i=nest,nodejs,express,fastapi,django,flask" height="36"> |
 | **Frontend** | <img alt="React, Next.js, Redux, Tailwind, Figma" src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,figma" height="36"> |
-| **Data** | <img alt="PostgreSQL, MySQL, MongoDB, Redis, Prisma, Supabase" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,supabase" height="36"> |
-| **Infrastructure** | <img alt="Docker, Linux, Nginx, AWS, Azure, Vercel" src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,azure,vercel" height="36"> |
+| **Data** | <img alt="PostgreSQL, MySQL, MongoDB, Redis, Prisma, Supabase, Firebase" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,supabase,firebase" height="36"> |
+| **Infrastructure** | <img alt="Docker, Linux, Nginx, AWS, Azure, Google Cloud, Vercel, Kubernetes" src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,azure,gcp,vercel,kubernetes" height="36"> |
 | **Automation and AI** | <img alt="n8n" src="https://img.shields.io/badge/n8n-02061C?style=flat-square&logo=n8n&logoColor=EA4B71"> <img alt="Make" src="https://img.shields.io/badge/Make-02061C?style=flat-square&logo=make&logoColor=6D00CC"> <img alt="Zapier" src="https://img.shields.io/badge/Zapier-02061C?style=flat-square&logo=zapier&logoColor=FF4F00"> <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-02061C?style=flat-square&logo=openai&logoColor=F5F1E6"> <img alt="Claude" src="https://img.shields.io/badge/Claude-02061C?style=flat-square&logo=claude&logoColor=D97757"> <img alt="Gemini" src="https://img.shields.io/badge/Gemini-02061C?style=flat-square&logo=googlegemini&logoColor=8E75F8"> <img alt="Vapi, Retell, Bland" src="https://img.shields.io/badge/Vapi%20%7C%20Retell%20%7C%20Bland-02061C?style=flat-square&labelColor=02061C&color=94AFC0"> |
 
 <br>

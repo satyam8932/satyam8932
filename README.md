@@ -68,7 +68,7 @@ My best work is in private client repositories, so this profile is the smaller a
 | :-- | :-- |
 | **Typical scope** | AI automation, voice agents, LLM features, integrations, internal tools, APIs |
 | **Engagement** | Fixed scope with milestones, or a weekly retainer |
-| **Track record** | 50+ clients, Top Rated on Upwork, 100% job success score |
+| **Track record** | 55+ clients, Top Rated on Upwork, 100% job success score |
 | **Verticals** | Real estate, fintech, healthcare, ecommerce |
 | **Start here** | [Upwork](https://www.upwork.com/freelancers/~015123bd12ad914e39) or [email](mailto:businesswithsatyam9555@gmail.com) |
 

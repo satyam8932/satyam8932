@@ -108,11 +108,11 @@ I have several, and I will defend them for longer than anyone wants.
 
 <img alt="selected work" height="38" src="https://img.shields.io/badge/selected%20work-the%20public%20half-02061C?style=for-the-badge&labelColor=F7BD40">
 
-| Project | What it is | Stack | |
-| :-- | :-- | :-- | :-- |
-| **[GenieAI](https://github.com/satyam8932/genieai)** | Chat with your own PDFs. Retrieval over a vector store, real auth, a document workspace. Ran as a GSSoC project, so a good chunk of it is other people's code that I reviewed into shape. | Next.js, TypeScript, Drizzle, Postgres, Pinecone, Clerk | <img alt="stars" src="https://img.shields.io/github/stars/satyam8932/genieai?style=flat-square&labelColor=02061C&color=F7BD40"> |
-| **[Sign Language Detector](https://github.com/satyam8932/Sign-Language-Detector)** | Real time hand sign recognition off a webcam feed. Computer vision, back when I thought that was the hard part. | Python, OpenCV | <img alt="stars" src="https://img.shields.io/github/stars/satyam8932/Sign-Language-Detector?style=flat-square&labelColor=02061C&color=F7BD40"> |
-| **[Portfolio](https://portfolioforsatyam.vercel.app)** | My own site. Case studies, and a contact form I actually read. | Next.js | <img alt="stars" src="https://img.shields.io/github/stars/satyam8932/Portfolio-Website?style=flat-square&labelColor=02061C&color=F7BD40"> |
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| **[GenieAI](https://github.com/satyam8932/genieai)** | Chat with your own PDFs. Retrieval over a vector store, real auth, a document workspace. Ran as a GSSoC project, so a good chunk of it is other people's code that I reviewed into shape. | Next.js, TypeScript, Drizzle, Postgres, Pinecone, Clerk |
+| **[Sign Language Detector](https://github.com/satyam8932/Sign-Language-Detector)** | Real time hand sign recognition off a webcam feed. Computer vision, back when I thought that was the hard part. | Python, OpenCV |
+| **[Portfolio](https://portfolioforsatyam.vercel.app)** | My own site. Case studies, and a contact form I actually read. | Next.js
 
 Client work stays private by contract. What is public here is what legal lets me show you, which is not the same thing as what I am proud of.
 
